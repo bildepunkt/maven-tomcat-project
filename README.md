@@ -1,8 +1,11 @@
 Maven Tomcat Project
 ====================
 
-# Run
+based on this tutorial:
+http://www.mkyong.com/maven/how-to-create-a-web-application-project-with-maven/
+
+### Run
 
     mvn tomcat:run
 
-visit localhost:8080/maven-tomcat-project/
+view at localhost:8080/maven-tomcat-project/
